@@ -1,0 +1,9 @@
+path: datasets/wildlife3  # make_dataset.py 출력 폴더
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: elephant
+  1: rhino
+  2: zebra
