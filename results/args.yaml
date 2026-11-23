@@ -112,4 +112,4 @@ auto_augment: randaugment
 erasing: 0.4
 cfg: null
 tracker: tracktrack.yaml
-save_dir: /home/claude/hw/runs/detect/runs/yolo11n_wildlife3
+save_dir: save_dir: runs/detect/yolo11n_wildlife3
